@@ -1,5 +1,6 @@
 # Node modules
 node_modules/
+/node_modules
 
 # Logs
 logs
@@ -48,4 +49,4 @@ yarn.lock
 *.sublime-workspace
 *.sublime-project
 *.swp
-
+echo "add-name-and-emoji/Scrim-s01rde8v8a/node_modules/public-encrypt/test/test_rsa_privkey.pem"
